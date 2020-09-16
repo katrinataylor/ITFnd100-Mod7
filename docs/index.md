@@ -46,16 +46,16 @@ print(objFileData)
 
 The above example provided the expected output in PyCharm (Figure 2), as well as when ran in the Terminal (Figure 3).
 
-![Figure 2](https://github.com/katrinataylor/ITFnd100-Mod7/blob/master/docs/Figure2.png "Figure 2")  
+![Figure 2](https://katrinataylor.github.io/ITFnd100-Mod7/Figure2.png "Figure 2")  
 **Figure 2: The output of the pickling example script in PyCharm**
 
-![Figure 3](https://github.com/katrinataylor/ITFnd100-Mod7/blob/master/docs/Figure3.png "Figure 3")  
+![Figure 3](https://katrinataylor.github.io/ITFnd100-Mod7/Figure3.png "Figure 3")  
 **Figure 3: The output of the pickling example script in the Terminal**
 
 
 Without using the load pickling method to read the byte-stream, the data is not easy to understand (Figure 4).
 
-![Figure 4](https://github.com/katrinataylor/ITFnd100-Mod7/blob/master/docs/Figure4.png "Figure 4")  
+![Figure 4](https://katrinataylor.github.io/ITFnd100-Mod7/Figure4.png "Figure 4")  
 **Figure 4: The byte-stream file**
 
 The following resources also provide a good introduction to pickling in Python because they assume the viewer has little knowledge around this subject area:  
@@ -92,10 +92,10 @@ else: # When there is no error
 
 The above example provided an easy to understand error and works in PyCharm (Figure 6), as well in the Terminal (Figure 7).
 
-![Figure 6](https://github.com/katrinataylor/ITFnd100-Mod7/blob/master/docs/Figure6.png "Figure 6")  
+![Figure 6](https://katrinataylor.github.io/ITFnd100-Mod7/Figure6.png "Figure 6")  
 **Figure 6: The output of the try-except example script in PyCharm**
 
-![Figure 7](https://github.com/katrinataylor/ITFnd100-Mod7/blob/master/docs/Figure7.png "Figure 7")  
+![Figure 7](https://katrinataylor.github.io/ITFnd100-Mod7/Figure7.png "Figure 7")  
 **Figure 7: The output of the try- except example script in the Terminal**
 
 The following resources also provide a good introduction to exception handling in Python because they chunk out the different ways one could handle exceptions:  
